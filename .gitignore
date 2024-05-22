@@ -186,10 +186,12 @@ pyrightconfig.json
 # data folder
 /feather_exports
 /steps_feather_exports
-/cleaned-surveys
 /lll_aware
-/lll_fitbit_data
-/lll_fitbit_lifetime
 /lll-awair
 /lll-awair-dash
 
+/datafiles
+/processed_data
+
+# ignore combined.ipynb because it has location data
+combined.ipynb
